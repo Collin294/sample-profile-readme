@@ -1,6 +1,6 @@
-## 👏 Hi, I'm _YOUR_NAME_HERE_!
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+## 👏 Hi, I'm Collin Largaespada!
+##  I am a Junior at the university of san antonio
+I am a cybersecurity major and I love to rock climb and run 
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
